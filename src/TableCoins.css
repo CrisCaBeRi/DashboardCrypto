@@ -1,0 +1,13 @@
+.table_coins{
+    width: 80%;    
+    margin: auto;    
+    padding: 30px 30px 80px;
+    display: block;
+    overflow-x: scroll;    
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+tr{
+    text-align: center;    
+}

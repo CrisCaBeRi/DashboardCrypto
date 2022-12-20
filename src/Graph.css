@@ -1,0 +1,12 @@
+.graph{
+    position: relative;
+    width: 90%;
+    height: 50%;
+    margin: auto;
+}
+.graph canvas{
+    width: 90%;
+    height: 50%;
+    margin: auto;
+}
+
